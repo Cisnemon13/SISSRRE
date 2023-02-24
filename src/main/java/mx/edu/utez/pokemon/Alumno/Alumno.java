@@ -38,4 +38,6 @@ public class Alumno {
     @OneToMany(mappedBy = "alumno")
     @JsonIgnore
     private List<Asesor> asesor;
+
+    //hello suckers
 }
