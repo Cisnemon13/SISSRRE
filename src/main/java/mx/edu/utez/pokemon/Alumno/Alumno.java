@@ -39,7 +39,8 @@ public class Alumno {
     @JsonIgnore
     private List<Asesor> asesor;
 
-    //hello suckers
+    //hello Moroni
     //hello Jesus
     //Hello Yex
+    //Hello Joshua
 }
